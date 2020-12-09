@@ -23,7 +23,7 @@ export default (props)=> {
                     <tr>
                     <th scope="col">Name</th>
                     <th scope="col">Type</th>
-                    <th scope="col">Info</th>
+                    <th scope="col">Infomation</th>
                     </tr>
              </thead>
                     
